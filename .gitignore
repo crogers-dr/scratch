@@ -1,0 +1,5 @@
+#folders
+not_version_controlled/
+
+#misc files
+.DS_Store
