@@ -1,5 +1,5 @@
 {
-  "name": "package_test",
+  "name": "@crogers-dr/package_test",
   "version": "1.0.0",
   "description": "a test package for testing npm publishing workflows",
   "homepage": "https://github.com/crogers-dr/scratch#readme",
